@@ -16,18 +16,19 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Amann Islam's Personal Site"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Amann Islam"
+description              : "An online window to my life."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : https://github.com/amannislam/amannislam.github.io
+# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 55
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -114,9 +115,11 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
+      url: mailto:amannislam@gmail.com"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
+      url: "https://amannislam.github.io"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -126,6 +129,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url:  "https://github.com/amannislam/"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -293,3 +297,10 @@ defaults:
       comments: # true
       share: true
       related: true
+# _pages 
+- scope: 
+    path: ""
+    type: pages 
+  values:
+    layout: single
+    author_profile: true
