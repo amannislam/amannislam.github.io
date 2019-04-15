@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:amannislam@gmail.com
+      # url: mailto:amannislam@gmail.com
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -124,7 +124,7 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-     - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"     
       url: "https://www.linkedin.com/in/amannislam/"
     - label: "Facebook"
