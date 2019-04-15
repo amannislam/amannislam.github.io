@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Amann Islam"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g.                        # "/assets/images/bio-photo.jpg"
   bio              : "An online window to my life."
   location         : "Dallas,Texas,USA "
   email            : "amannislam@gmail.com"
