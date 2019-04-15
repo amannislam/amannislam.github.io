@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "An online window to my life."
   location         : "Dallas,Texas,USA "
-  #email            : "amannislam@gmail.com"
+  email            : "amannislam@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -126,7 +126,7 @@ author:
       # url: "https://twitter.com/"
      - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"     
-      url: https://www.linkedin.com/in/amannislam/
+      url: "https://www.linkedin.com/in/amannislam/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
