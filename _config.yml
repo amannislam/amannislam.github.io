@@ -162,9 +162,11 @@ footer:
 
 
 # Reading Files
+
 include:
   - .htaccess
   - _pages
+  - ['_pages']
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -286,7 +288,7 @@ compress_html:
   ignore:
     envs: development
 
-include: ['_pages']
+
 # Defaults
 defaults:
   # _posts
