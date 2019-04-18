@@ -2,7 +2,7 @@ ___
 title: "About"
 permalink: /about/
 header:
-    image: "images/bio-photo.jpg"#
+    image: "images/bio-photo.jpg"
 ___ 
 
 I'm a technology enthusiest with an interest in devlopment and communication. 

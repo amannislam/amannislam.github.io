@@ -1,9 +1,9 @@
 ___
 layout: archive
 permalink: /projects/
-titile: "Projects posts by Tags" 
+title: "Projects posts by Tags" 
 author_profile: true
-header: 
+#header: 
     #image: #/"images/name"
 ___
 
