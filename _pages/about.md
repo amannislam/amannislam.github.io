@@ -1,6 +1,6 @@
 ___
 title: "About"
-permalink: "/about/"
+permalink: /about/
 layout: single
 header:
     image: "images/bio-photo.jpg"
