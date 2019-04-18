@@ -163,10 +163,9 @@ footer:
 
 # Reading Files
 
-include:
+include: ['_pages']
   - .htaccess
   - _pages
-  - ['_pages']
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

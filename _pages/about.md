@@ -1,7 +1,7 @@
 ___
 title: "About"
 permalink: /about/
-layout: page
+layout: single
 header:
     image: "images/bio-photo.jpg"
 ___ 
